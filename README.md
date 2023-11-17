@@ -21,7 +21,7 @@ Data set contains 5000 + points with features v1 : ham/spam categorical column, 
   * Pair Plot : linear relationship between the num-words and num_characters and data contains few outliers
   * heat map : Here the target & num_char colms,num_sentences & num_words are Highly positively correlated
  
-**Text Preprocessing**:
+**Text Preprocessing & Text Vectorization**:
 * lowercasing the data ensures that the same word in different cases is treated as a single token.
  * made use of NLTK library to tokenize the text to words.
  * Removed special characters,stop words & inflected words to simplify the text.

@@ -32,5 +32,7 @@ Used sklearn Count Vectorizer method and TfidfVectorizer class for easily transf
 
 **Model Building and Evaluation**:
 * Impleted Naive bayes classifier and evaluated   these models with an accuracy_score precision_score & Confusion_matrix.
-* Binomial naive bayes classifier  performs well with an accuracy : 0.95 & precision : 1.0
-
+* Binomial naive bayes classifier  performs well with an accuracy : 0.95 & precision : 1.0.
+  
+**Deployement**:
+https://spam-detection-01.streamlit.app/

@@ -12,6 +12,8 @@
 * Model Building and Evaluation
 * Model Deployement
 
+Data set link : [spam_dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
 Data set contains 5000 + points with features v1 : ham/spam categorical column, v2 : text messages, Others : NaN .
 
 **Did exploratory data analysis to gain some insights on data**:
